@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "cc3e",
+      "fullName": "Ayisha",
+      "age": "21",
+      "email": "ayishamusayeva04@gmail.com",
+      "position": "student"
+    },
+    {
+      "id": "7067",
+      "fullName": "ayisha musayeva",
+      "age": "20",
+      "email": "vuqarm344@gmail.com",
+      "position": "student"
+    }
+  ]
+}
